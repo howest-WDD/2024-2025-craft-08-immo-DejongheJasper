@@ -1,4 +1,4 @@
-dateModified: 1732262379
+dateModified: 1732273073
 email:
   fromEmail: voornaam.naam@howest.be
   fromName: 'Craft Template'
@@ -13,7 +13,10 @@ fs:
     url: '@web/local'
 meta:
   __names__:
+    2fd3d299-fe61-46f1-8515-80621df618a5: 'List Item' # List Item
     5d45f9f4-7ab7-4459-926d-a8006cad4227: Images # Images
+    7a5d1b6f-9d21-41e5-b4ea-2b708332998d: Strengths # Strengths
+    10bb63a2-b99e-4042-9ad1-4f57b867ed0e: Carousel # Carousel
     10d2260b-dd05-4a49-abb3-800017e15928: 'Craft Template' # Craft Template
     21d6f9ae-1d22-490e-bd89-d6ded5d514ac: 'body text' # body text
     35c35080-108d-485f-925f-407a5ab65a22: Cover # Cover
